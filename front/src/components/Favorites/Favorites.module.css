@@ -1,0 +1,9 @@
+.wrapperCards {
+  display: flex;
+  text-align: left;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+  height: 100vh;
+  padding-top: 20px;
+}
